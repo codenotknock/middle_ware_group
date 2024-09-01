@@ -20,7 +20,7 @@ import java.util.List;
  * @author fuzhouling
  * @date 2024/06/08
  * @program middle_ware_group
- * @description 发送消息
+ * @description rocketmq-client 发送消息
  **/
 
 class MqProducerTest {
