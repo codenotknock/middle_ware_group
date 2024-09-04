@@ -18,6 +18,7 @@
         <module>elasticsearch</module>
         <module>rocketmq</module>
         <module>rocketmq2</module>
+        <module>rocketmq2/mq-demo</module>
     </modules>
     <properties>
         <java.version>8</java.version>
